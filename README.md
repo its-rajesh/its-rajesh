@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @its-rajesh
-- 👀 I’m interested in Signal Processing & Deep Learning
+- 👀 I’m interested in Signal Processing & Deep Learning 💞️
 - 🌱 I’m currently working on Source Separation
-- 💞️ I’m looking to collaborate on Signal Processing & Deep Learning
 - 📫 Reach me by rajesh.krsk@gmail.com
 
 <!---
