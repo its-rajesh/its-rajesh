@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @its-rajesh
+- 👋 Hi, I’m Rajesh [@its-rajesh]
 - 👀 I’m interested in Signal Processing & Deep Learning 💞️
-- 🌱 I’m currently working on Source Separation
-- 📫 Reach me by rajesh.krsk@gmail.com
+- 🌱 I’m currently working on Music Source Separation (MSS) problem
+- 📫 Reach me by rajesh.krsk@gmail.com or s21005@students.iitmandi.ac.in
 
 <!---
 its-rajesh/its-rajesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
