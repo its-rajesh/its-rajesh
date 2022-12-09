@@ -1,7 +1,7 @@
 ```
 Hello world, I’m Rajesh
 ```
-> I'm a MS Researcher in the Area of Signal Processing & Deep Learning
+> MS Researcher in the Area of Signal Processing & Deep Learning
 
 > Currenly working on Music Source Separation
 
