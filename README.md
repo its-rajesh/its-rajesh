@@ -1,11 +1,8 @@
 ```
 Hello world, I’m Rajesh
 ```
-> Research Area: Signal Processing & Deep Learning
-
-- 👀 
-- 🌱 I’m currently working on Music Source Separation (MSS) problem
-- 📫 Reach me by rajesh.krsk@gmail.com or s21005@students.iitmandi.ac.in
+> I'm a MS Researcher in the Area of Signal Processing & Deep Learning
+> Currenly working on Music Source Separation
 
 <!---
 its-rajesh/its-rajesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
