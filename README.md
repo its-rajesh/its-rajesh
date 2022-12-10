@@ -12,20 +12,6 @@ Hello world, I’m Rajesh
 
 > Currenly working on Music Source Separation
 
-<div align="center">
-<table>
-<tbody>
-<td align="center">
-<img width="800" height="0"><br>
-<sub>Hello world
-  lakdkj
-  
-  </sub><br>
-<img width="800" height="0">
-</td>
-</tbody>
-</table>
-</div>
 
 
 ![](https://komarev.com/ghpvc/?username=its-rajesh&color=red&style=for-the-badge&label=VIEWERS+COUNT)
