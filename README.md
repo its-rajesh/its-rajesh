@@ -6,9 +6,7 @@ Hello world, I’m Rajesh
 > Currenly working on Music Source Separation
 
 
-<p align="center">
-  ![](https://github.com/its-rajesh/its-rajesh/blob/main/math2.gif)
-</p>
+![](https://github.com/its-rajesh/its-rajesh/blob/main/math2.gif)
 
 ![](https://komarev.com/ghpvc/?username=its-rajesh&color=red&style=for-the-badge&label=VIEWERS+COUNT)
 
