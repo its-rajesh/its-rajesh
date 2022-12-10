@@ -5,7 +5,7 @@ Hello world, I’m Rajesh
 
 > Currenly working on Music Source Separation
 
-![](https://github.com/its-rajesh/its-rajesh/blob/main/ft.mp4)
+![](https://github.com/its-rajesh/its-rajesh/blob/main/NTPG.gif)
 
 
 
