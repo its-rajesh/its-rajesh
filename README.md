@@ -1,10 +1,11 @@
 
 <h1 align="center">RAJESH R</h1>
 
-```
-Hello world
+<div align="center">Hello world!!!</div>
+<div align="center">Signal Processing | Deep Learning | Audio/Music Signals | Image Processing | Mathematics</div>
 
-Research Interests: Signal Processing, Deep Learning, Audio/Music Signals, Image Processing, Mathematics!
+```
+Signal Processing | Deep Learning | Audio/Music Signals | Image Processing | Mathematics
 ```
 <p align="center">
   <img  src="https://github.com/its-rajesh/its-rajesh/blob/main/math2.gif">
