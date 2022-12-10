@@ -5,7 +5,7 @@
 Hello world, I’m Rajesh
 ```
 <p align="center">
-  <img width="460" height="300" src="https://github.com/its-rajesh/its-rajesh/blob/main/math2.gif">
+  <img  src="https://github.com/its-rajesh/its-rajesh/blob/main/math2.gif">
 </p>
 
 > MS Researcher in the Area of Signal Processing & Deep Learning
