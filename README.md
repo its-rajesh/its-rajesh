@@ -5,12 +5,13 @@ Hello world, I’m Rajesh
 
 > Currenly working on Music Source Separation
 
-![](https://github.com/its-rajesh/its-rajesh/blob/main/math2.gif)
 
-
-
+<p align="center">
+  ![](https://github.com/its-rajesh/its-rajesh/blob/main/math2.gif)
+</p>
 
 ![](https://komarev.com/ghpvc/?username=its-rajesh&color=red&style=for-the-badge&label=VIEWERS+COUNT)
+
 
 <!---
 its-rajesh/its-rajesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
