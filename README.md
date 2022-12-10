@@ -5,6 +5,9 @@ Hello world, I’m Rajesh
 
 > Currenly working on Music Source Separation
 
+![](https://github.com/its-rajesh/its-rajesh/blob/main/ft.mp4)
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=its-rajesh&color=red&style=for-the-badge&label=VIEWERS+COUNT)
