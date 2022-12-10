@@ -1,7 +1,7 @@
 
 <h1 align="center">RAJESH R</h1>
 
-<div align="center">Hello world!!!</div>
+<div align="center">Hello World!!!</div>
 <div align="center">Signal Processing | Deep Learning | Audio/Music Signals | Image Processing | Mathematics</div>
 
 ```
