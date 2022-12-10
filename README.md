@@ -2,15 +2,13 @@
 <h1 align="center">RAJESH R</h1>
 
 ```
-Hello world, I’m Rajesh
+Hello world
+
+Research Interests: Signal Processing, Deep Learning, Audio/Music Signals, Image Processing, Mathematics!
 ```
 <p align="center">
   <img  src="https://github.com/its-rajesh/its-rajesh/blob/main/math2.gif">
 </p>
-
-> MS Researcher in the Area of Signal Processing & Deep Learning
-
-> Currenly working on Music Source Separation
 
 
 
