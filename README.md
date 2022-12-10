@@ -16,9 +16,9 @@ Hello world, I’m Rajesh
 <table>
 <tbody>
 <td align="center">
-<img width="1000" height="0"><br>
+<img width="750" height="0"><br>
 <sub>This is text in the box. Much wow</sub><br>
-<img width="1000" height="0">
+<img width="750" height="0">
 </td>
 </tbody>
 </table>
