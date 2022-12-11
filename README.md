@@ -1,8 +1,8 @@
 
 <h1 align="center">RAJESH R</h1>
 
-<div align="center"> ♾️ Hello World ♾️</div>
-<div align="center">♾️ INFINITE LOVE TOWARDS THE LANGUAGE OF UNIVERSE ♾️
+<div align="center"> ♾️  Hello World  ♾️</div>
+<div align="center">♾️  INFINITE LOVE TOWARDS THE LANGUAGE OF UNIVERSE  ♾️
 </div>
 
 
