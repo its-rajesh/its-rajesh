@@ -5,6 +5,11 @@
 <div align="center">♾️  INFINITE LOVE TOWARDS THE LANGUAGE OF UNIVERSE  ♾️
 </div>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=வணக்கம்+உலகம்+&hearts;++;Studying+MS+by+Research+@+IIT+Mandi;Signal+Processing+and+Deep+Learning;Love+for+Math+and+AI+&hearts"></a>
+</p>
+
+
 :green_heart: **I code in:**
 <!--START_SECTION:waka-->
 
