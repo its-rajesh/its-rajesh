@@ -4,6 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=வணக்கம்+உலகம்+&hearts;++;Studying+MS+by+Research+@+IIT+Mandi;Signal+Processing+and+Deep+Learning;Love+for+Math+and+AI+&hearts"></a>
 </p>
@@ -21,20 +22,6 @@ C               ▓░░░░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<a href="https://www.instagram.com/its.mr.zero/">
-  <img align="left" alt="Rajesh's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/">
-  <img align="left" alt="Rajesh's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Rajesh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Rajesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=its-zero)
 
 📈 my github stats
 
@@ -44,7 +31,7 @@ C               ▓░░░░░░░░░░░░░░░░░░░░�
   <img  src="https://github.com/its-rajesh/its-rajesh/blob/main/math2.gif" width="400" height="300" >
 </p>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=யாதும்+ஊரே+யாவரும்+கேளிர்!;Infinite+love+from+India;நன்றி+வணக்கம்!)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=its-rajesh&color=red&style=for-the-badge&label=VIEWERS+COUNT)
 
