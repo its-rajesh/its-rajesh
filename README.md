@@ -17,6 +17,10 @@ C               ▓░░░░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=its-rajesh&show_icons=true&theme=gotham" alt="its-rajesh" />
+
 <p align="center">
   <img  src="https://github.com/its-rajesh/its-rajesh/blob/main/math2.gif" width="400" height="300" >
 </p>
