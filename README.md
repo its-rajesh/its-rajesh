@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img  src="https://github.com/its-rajesh/its-rajesh/blob/main/math2.gif" width="100" height="75" >
+  <img  src="https://github.com/its-rajesh/its-rajesh/blob/main/math2.gif" width="200" height="150" >
 </p>
 
 ```
