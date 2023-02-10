@@ -1,8 +1,7 @@
 
-<h1 align="center"><b>Hi , I'm Rajesh R </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hey, Its Rajesh here </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 
 
 <p align="center">
@@ -27,9 +26,7 @@ C               ▓░░░░░░░░░░░░░░░░░░░░�
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=its-rajesh&show_icons=true&theme=gotham" alt="its-rajesh" />
 
-<p align="center">
-  <img  src="https://github.com/its-rajesh/its-rajesh/blob/main/math2.gif" width="400" height="300" >
-</p>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=யாதும்+ஊரே+யாவரும்+கேளிர்!;Infinite+love+from+India;நன்றி+வணக்கம்!)](https://git.io/typing-svg)
 
