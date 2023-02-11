@@ -16,7 +16,7 @@
 ![Lines of code](https://img.shields.io/badge/Along%20with%20the-leakage%20removal%20in%20music%20signal-blue)
 ![Lines of code](https://img.shields.io/badge/I%20love%20to%20work%20on-Audio/Music,%20Images-blue)
 ![Lines of code](https://img.shields.io/badge/or%20any%20mathematically%20inclined-signal%20processing%20problems-blue)
-![Lines of code](https://img.shields.io/badge/Am%20currently%20open%20for%20an-Internship%20or%20Job%20oppurtunities-blue)
+![Lines of code](https://img.shields.io/badge/Am%20currently%20open%20for%20an-Research%20Internship%20oppurtunities-blue)
 
 
 
