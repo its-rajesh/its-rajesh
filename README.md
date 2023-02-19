@@ -65,7 +65,6 @@ Git                         █████████████████�
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=யாதும்+ஊரே+யாவரும்+கேளிர்!;Infinite+love+from+India;நன்றி+வணக்கம்!)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=its-rajesh&color=red&style=for-the-badge&label=VIEWERS+COUNT)
 
