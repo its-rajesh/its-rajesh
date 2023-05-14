@@ -62,12 +62,14 @@ Git                         █████████████████�
   
 | Music Information Reterival | Image Processing | Audio Processing | Deep Learning | Others |
 |------|-----|-----|-----|-----|
-|[Audio Bleeding Removal]()| |  | [Deep Learning]() |  |
-|[Wave-U-Net]()| |  |  |  |
-|[FastMIRA]()|  |  |  |  |
-|[Optimisation]()|  |  |  |  |
-|[t-Unet (IL)]()|  |  |  |  |
-|[iWaveUnet]()|  |  |  |  |
+|[Audio Bleeding Removal]()| [Region Based Segmentation]() | [Music Speech Separation]() | [Deep Learning]() | [Mathematics]() |
+|[Wave-U-Net]()| [Digital Image Processing]() | [Programming Practicum]() | [Pattern Recognition]()  | [C Basics]() |
+|[Neural Network NMF]()|  | [ASP for Music]()  |  | [ID Gen]() |
+|[Tonic Identification]()|  | [LPC]() |  |  |
+|[Spectral Clustering]()|  | [Audio Segmentation]() |  |  |
+|[FastMIRA]()|  | [Signal Processing]()  |  |  |
+|[ICA]()|  |  |  |  |
+
   
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
