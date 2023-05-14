@@ -60,7 +60,15 @@ Git                         █████████████████�
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=its-rajesh&show_icons=true&theme=gotham" alt="its-rajesh" />
 
   
-
+| Models | Vocal | Bass | Drums | Others | Overall SDR | Live |
+|------|-----|-----|-----|-----|-----|-----|
+|[Base line]()| 1.78 | 4.44 | 6.78 | 5.96 | 4.74 | - |
+|[KAMIR](https://ieeexplore.ieee.org/abstract/document/7178036)| 6.41 | 6.75 | 6.83 | 5.61 | 6.40 | Y |
+|[DI-CAE]()| 1.89 | 5.81 | 6.18 | 4.48 | 4.59 | Y |
+|[Optimisation]()| 39.25 | 42.90 | 44.22 | 42.11 | 42.12 | N |
+|[t-Unet (IL)]()| 12.05 | 15.05 | 16.255 | 15.69 | __14.76__ | N |
+|[iWaveUnet]()| 6.50 | 9.84 | 10.85 | 10.32 | 9.38 | Y |
+  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
