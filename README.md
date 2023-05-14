@@ -56,11 +56,11 @@ Git                         █████████████████�
 <!--END_SECTION:waka-->
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>List of Repositories</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> List of Repositories</b>
   
 | Music Information Reterival | Image Processing | Audio Processing | Deep Learning | Others |
 |------|-----|-----|-----|-----|
-|[Audio Bleeding Removal]()| [Region Based Segmentation]() | [Music Speech Separation]() | [Deep Learning]() | [Mathematics]() |
+|[Audio Bleeding Removal](https://github.com/its-rajesh/Audio-Bleeding-Removal)| [Region Based Segmentation]() | [Music Speech Separation]() | [Deep Learning](https://github.com/its-rajesh/Deep-Learning) | [Mathematics]() |
 |[Wave-U-Net]()| [Digital Image Processing]() | [Programming Practicum]() | [Pattern Recognition]()  | [C Basics]() |
 |[Neural Network NMF]()|  | [ASP for Music]()  |  | [ID Gen]() |
 |[Tonic Identification]()|  | [LPC]() |  |  |
