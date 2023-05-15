@@ -39,7 +39,7 @@
 
 
 ❤️ Deep Learning Framework:
-Tensorflow-keras  ████████████████████░░░░░   82.00 %    PyTorch           ██▓░░░░░░░░░░░░░░░░░░░░░░   18.00 %
+Tensorflow-keras  ████████████████████░░░░░   82.00 %    PyTorch         ██▓░░░░░░░░░░░░░░░░░░░░░░   18.00 %
 
 ❤️ Operating Systems:
 MacOS           █████████████░░░░░░░░░░░░   50.00 %      Ubuntu          ████████████░░░░░░░░░░░░░   48.00 %
