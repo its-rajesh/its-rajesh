@@ -56,7 +56,7 @@ HPC             █████████████████████�
   
 | Music Information Reterival | Image Processing | Audio Processing | Deep Learning | Others |
 |------|-----|-----|-----|-----|
-|[Audio Bleeding Removal](https://github.com/its-rajesh/Audio-Bleeding-Removal)| [Region Based Segmentation]() | [Music Speech Separation]() | [Deep Learning](https://github.com/its-rajesh/Deep-Learning) | [Mathematics]() |
+|[Audio Bleeding Removal](https://github.com/its-rajesh/Audio-Bleeding-Removal)| [Region Based Segmentation](https://github.com/its-rajesh/Region-Based-Segmentation) | [Music Speech Separation]() | [Deep Learning](https://github.com/its-rajesh/Deep-Learning) | [Mathematics]() |
 |[Wave-U-Net](https://github.com/its-rajesh/Wave-U-Net)| [Digital Image Processing]() | [Programming Practicum]() | [Pattern Recognition]()  | [C Basics]() |
 |[Neural Network NMF]()|  | [ASP for Music]()  |  | [ID Gen]() |
 |[Tonic Identification]()|  | [LPC]() |  |  |
