@@ -65,17 +65,6 @@ HPC             █████████████████████�
 |[Tonic Identification](https://github.com/its-rajesh/Tonic-Identification)|  [LPC](https://github.com/its-rajesh/Linear-Predictive-Coding-of-Speech-Signals) |  |  |
 |[Spectral Clustering](https://github.com/its-rajesh/Song-Structure-Using-Spectral-Clustering)|  [Audio Segmentation](https://github.com/its-rajesh/Audio-Segmentation) |  |  |
 |[ICA](https://github.com/its-rajesh/Independent-Component-Analysis)|  [Signal Processing](https://github.com/its-rajesh/Signal-Processing-Python)  |  |  |
-
-
-| Music Information Reterival | Image Processing | Audio Processing | Deep Learning | Others |
-|------|-----|-----|-----|-----|
-|[Audio Bleeding Removal](https://github.com/its-rajesh/Audio-Bleeding-Removal)| [Region Based Segmentation](https://github.com/its-rajesh/Region-Based-Segmentation) | [Music Speech Separation](https://github.com/its-rajesh/Music-Speech-Separation) | [Deep Learning](https://github.com/its-rajesh/Deep-Learning) | [Mathematics](https://github.com/its-rajesh/Mathematics) |
-|[Wave-U-Net](https://github.com/its-rajesh/Wave-U-Net)| [Digital Image Processing](https://github.com/its-rajesh/Digital-Image-Processing) | [Programming Practicum](https://github.com/its-rajesh/Programming-Practicum) | [Pattern Recognition](https://github.com/its-rajesh/Pattern-Recognition)  | [C Basics](https://github.com/its-rajesh/CBasicsCode) |
-|[Neural Network NMF](https://github.com/its-rajesh/Neural-Network-Alternative-to-NMF)|  | [ASP for Music](https://github.com/its-rajesh/Audio-Signal-Processing-for-Music-Applications)  |  | [ID Gen](https://github.com/its-rajesh/RSquareAcademy) |
-|[Tonic Identification](https://github.com/its-rajesh/Tonic-Identification)|  | [LPC](https://github.com/its-rajesh/Linear-Predictive-Coding-of-Speech-Signals) |  |  |
-|[Spectral Clustering](https://github.com/its-rajesh/Song-Structure-Using-Spectral-Clustering)|  | [Audio Segmentation](https://github.com/its-rajesh/Audio-Segmentation) |  |  |
-|[ICA](https://github.com/its-rajesh/Independent-Component-Analysis)|  | [Signal Processing](https://github.com/its-rajesh/Signal-Processing-Python)  |  |  |
-
   
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
