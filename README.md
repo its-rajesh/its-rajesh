@@ -11,10 +11,7 @@
 </p>
 
 
-![Lines of code](https://img.shields.io/badge/Am%20currently%20working%20on-Music%20Source%20Separation%20research%20problem-blue)
-![Lines of code](https://img.shields.io/badge/Along%20with%20the-leakage%20removal%20in%20music%20signal-blue)
-![Lines of code](https://img.shields.io/badge/I%20love%20to%20work%20on-Audio/Music,%20Images-blue)
-![Lines of code](https://img.shields.io/badge/or%20any%20mathematically%20inclined-signal%20processing%20problems-blue)
+
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Personal%20Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rajesh.krsk@gmail.com)](mailto:rajesh.krsk@gmail.com)
