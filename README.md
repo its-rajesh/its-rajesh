@@ -11,9 +11,7 @@
 </p>
 
 ```diff
-- This is a red colored line
-+ This is a green colored line
-@@ This is a purple colored line @@
+@@ I am currently engaged in research related to Music Source Separation, with a specific focus on removing leakage from music signals. "In addition to my primary research, I have a strong passion for working on projects involving audio, music, images, and any mathematically inclined signal processing challenges. @@
 ```
 
 
