@@ -10,11 +10,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=வணக்கம்+உலகம்+&hearts;++;Studying+MS+by+Research+@+IIT+Mandi;Signal+Processing+and+Deep+Learning;Music+Information+Reterival;Love+for+Math+and+AI+&hearts"></a>
 </p>
 
-diff
-@@ I am currently engaged in research related to Music Source Separation, with a specific focus on removing leakage from music signals.
 
-
-"In addition to my primary research, I have a strong passion for working on projects involving audio, music, images, and any mathematically inclined signal processing challenges. @@
+I am currently engaged in research related to Music Source Separation, with a specific focus on removing leakage from music signals. In addition to my primary research, I have a strong passion for working on projects involving audio, music, images, and any mathematically inclined signal processing challenges.
 
 
 
