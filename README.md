@@ -11,7 +11,7 @@
 </p>
 
 
-I am currently engaged in research related to Music Source Separation, with a specific focus on removing leakage from music signals. In addition to my primary research, I have a strong passion for working on projects involving audio, music, images, and any mathematically inclined signal processing challenges.
+I am currently engaged in research related to music source separation, with a specific focus on removing leakage from music signals. In addition to my primary research, I have a strong passion for working on projects involving audio, music, images, and any mathematically inclined signal processing challenges.
 
 
 
