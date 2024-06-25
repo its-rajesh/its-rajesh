@@ -7,14 +7,35 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=வணக்கம்+உலகம்+&hearts;++;Studying+MS+by+Research+@+IIT+Mandi;Signal+Processing+and+Deep+Learning;Music+Information+Reterival;Love+for+Math+and+AI+&hearts"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=வணக்கம்+உலகம்+&hearts;++;Studying+MS+by+Research+@+IIT+Mandi;Audio+Signal+Processing+and+Deep+Learning;Love+for+Math+and+AI+&hearts"></a>
 </p>
 
 
-I am currently engaged in research related to music source separation, with a specific focus on removing leakage from music signals. In addition to my primary research, I have a strong passion for working on projects involving audio, music, images, and any mathematically inclined signal processing challenges.
+I worked in the music source separation research problem, with a specific focus on removing bleeding from the live microphone recordings. In addition to my primary research, I have a strong passion for working on projects involving audio, music, images, and any mathematically inclined signal processing challenges.
 
 
 
+<a href="https://gkos.dev">
+    <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
+</a>  
+<a href="https://gkos.dev/Resume.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
+<a href="https://www.linkedin.com/in/gkos/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:georgiou.kostas94@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href='https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+</a>
+<a href="https://pypi.org/user/drkostas/">
+    <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
+</a>
+<!-- <a href="https://pypi.org/user/drkostas/">
+    <img src="https://komarev.com/ghpvc/?username=drkostas&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
+</a> -->
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Personal%20Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rajesh.krsk@gmail.com)](mailto:rajesh.krsk@gmail.com)
