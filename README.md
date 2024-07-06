@@ -22,7 +22,6 @@ I worked in the music source separation research problem, with a specific focus 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/its.mr.zero/)](https://www.instagram.com/its.mr.zero/)
 
 
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **I work with**
 
 <!--START_SECTION:waka-->
