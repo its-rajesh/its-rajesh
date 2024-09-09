@@ -11,8 +11,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=வணக்கம்+உலகம்+&hearts;++;PhD+Student+at+UIC;Previously+MS+by+Research+@+IIT+Mandi;AAudio+Signal+Processing+and+Deep+Learning;Love+for+Math+and+AI+&hearts"></a>
 </p>
 
+I am a PhD student at the Listening Technology Lab, University of Illinois Chicago (UIC), where my research focuses on audio signal processing, particularly in the field of listening technologies. Prior to this, I completed my MS by Research at IIT Mandi, where I worked on the music source separation problem, with a specific focus on removing microphone bleed from live recordings.
 
-I worked in the music source separation research problem, with a specific focus on removing bleeding from the live microphone recordings. In addition to my primary research, I have a strong passion for working on projects involving audio, music, images, and any mathematically inclined signal processing challenges.
+In addition to my primary research, I am passionate about tackling mathematically challenging signal processing problems and enjoy working on projects that involve deep analytical thinking.
 
 ![My Image](./ListeningTechLabBackground.png)
 
