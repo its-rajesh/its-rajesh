@@ -18,12 +18,30 @@ I worked in the music source separation research problem, with a specific focus 
 
 
 <p align="center">
+  <a href="mailto:rajesh.krsk@gmail.com">
+    <img alt="Gmail Badge" src="https://img.shields.io/badge/-Personal%20Mail-c14438?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rajeshrrajeshr/">
+    <img alt="Linkedin Badge" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://sites.google.com/view/rajesh-r/">
+    <img alt="Website Badge" src="https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Rajesh_smartino">
+    <img alt="Twitter Badge" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/its.mr.zero/">
+    <img alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+
+
   [![Gmail Badge](https://img.shields.io/badge/-Personal%20Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rajesh.krsk@gmail.com)](mailto:rajesh.krsk@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajeshrrajeshr/)](https://www.linkedin.com/in/rajeshrrajeshr/)
   [![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sites.google.com/view/rajesh-r/)](https://sites.google.com/view/rajesh-r/)
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Rajesh_smartino)](https://twitter.com/Rajesh_smartino)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/its.mr.zero/)](https://www.instagram.com/its.mr.zero/)
-</p>
 
 
 
