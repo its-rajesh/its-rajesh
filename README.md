@@ -40,6 +40,7 @@ I worked in the music source separation research problem, with a specific focus 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **I work with**
 
+<!--
 <!--START_SECTION:waka-->
 
 ```text
@@ -59,7 +60,7 @@ Windows         ▓░░░░░░░░░░░░░░░░░░░░�
 HPC             █████████████████████████   100.0%       Git             █████████████████████████   100.0%
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka-->-->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Published Repositories</b>
 
