@@ -14,7 +14,7 @@
 
 I worked in the music source separation research problem, with a specific focus on removing bleeding from the live microphone recordings. In addition to my primary research, I have a strong passion for working on projects involving audio, music, images, and any mathematically inclined signal processing challenges.
 
-
+![My Image](./my_image.png)
 
 [![Gmail Badge](https://img.shields.io/badge/-Personal%20Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rajesh.krsk@gmail.com)](mailto:rajesh.krsk@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajeshrrajeshr/)](https://www.linkedin.com/in/rajeshrrajeshr/)
