@@ -40,27 +40,7 @@ I worked in the music source separation research problem, with a specific focus 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **I work with**
 
-<!--
-<!--START_SECTION:waka-->
 
-```text
-❤️ Programming Languages:
-.py             ████████████████████░░░░░   80.01 %      .ipynb          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-.cpp            █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 %      .c              ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-
-
-❤️ Deep Learning Framework:
-Tensorflow-keras  ████████████████████░░░░░   82.00 %    PyTorch         ██▓░░░░░░░░░░░░░░░░░░░░░░   18.00 %
-
-❤️ Operating Systems:
-MacOS           █████████████░░░░░░░░░░░░   50.00 %      Ubuntu          ████████████░░░░░░░░░░░░░   48.00 %
-Windows         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-
-❤️ Others:
-HPC             █████████████████████████   100.0%       Git             █████████████████████████   100.0%
-```
-
-<!--END_SECTION:waka-->-->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Published Repositories</b>
 
