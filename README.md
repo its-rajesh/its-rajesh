@@ -15,8 +15,6 @@ I am a PhD student at the Listening Technology Lab, University of Illinois Chica
 
 In addition to my primary research, I am passionate about tackling mathematically challenging signal processing problems and enjoy working on projects that involve deep analytical thinking.
 
-![My Image](./ListeningTechLabBackground.png)
-
 
 <p align="center">
   <a href="mailto:rajesh.krsk@gmail.com">
