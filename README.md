@@ -13,7 +13,7 @@
 
 I am a PhD student at the Listening Technology Lab, University of Illinois Chicago (UIC), where my research focuses on audio signal processing, particularly in the field of listening technologies. Prior to this, I completed my MS by Research at IIT Mandi, where I worked on the music source separation problem, with a specific focus on removing microphone bleed from live recordings.
 
-In addition to my primary research, I am passionate about tackling mathematically challenging signal processing problems and enjoy working on projects that involve deep analytical thinking.
+In addition to my primary research, I am passionate about tackling mathematically challenging signal processing problems and enjoy working on projects that involve deep analytical thinking. Checkout my research page at my Portfolio!!!
 
 
 <p align="center">
