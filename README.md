@@ -23,7 +23,7 @@ In addition to my primary research, I am passionate about tackling mathematicall
   <a href="https://www.linkedin.com/in/rajeshrrajeshr/">
     <img alt="Linkedin Badge" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://sites.google.com/view/rajesh-r/">
+  <a href="https://its-rajesh.github.io/rajesh/">
     <img alt="Website Badge" src="https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" />
   </a>
   <a href="https://twitter.com/Rajesh_smartino">
