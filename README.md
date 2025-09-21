@@ -41,18 +41,18 @@ In addition to my primary research, I am passionate about tackling mathematicall
 | Music Information Reterival |
 |------|
 |[Interference Reduction In Multi-track Recordings](https://github.com/its-rajesh/IRMR)| 
+| [Graph based Interference Reduction - GIRNet](https://github.com/its-rajesh/GIRNet)|
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Others (Junk) </b>
 
 
-| Music Information Reterival | Audio Processing | Deep Learning | Image Processing | Others |
-|------|-----|-----|-----|-----|
-|[Audio Bleeding Removal](https://github.com/its-rajesh/Audio-Bleeding-Removal)|  [Music Speech Separation](https://github.com/its-rajesh/Music-Speech-Separation) | [Deep Learning](https://github.com/its-rajesh/Deep-Learning) | [Region Based Segmentation](https://github.com/its-rajesh/Region-Based-Segmentation) | [Mathematics](https://github.com/its-rajesh/Mathematics) |
-|[Wave-U-Net](https://github.com/its-rajesh/Wave-U-Net)|  [Programming Practicum](https://github.com/its-rajesh/Programming-Practicum) | [Pattern Recognition](https://github.com/its-rajesh/Pattern-Recognition)  | [Digital Image Processing](https://github.com/its-rajesh/Digital-Image-Processing) |  [C Basics](https://github.com/its-rajesh/CBasicsCode) |
-|[Neural Network NMF](https://github.com/its-rajesh/Neural-Network-Alternative-to-NMF)|  [ASP for Music](https://github.com/its-rajesh/Audio-Signal-Processing-for-Music-Applications)  |  | | [ID Gen](https://github.com/its-rajesh/RSquareAcademy)
-|[Tonic Identification](https://github.com/its-rajesh/Tonic-Identification)|  [LPC](https://github.com/its-rajesh/Linear-Predictive-Coding-of-Speech-Signals) |  |  |
-|[Spectral Clustering](https://github.com/its-rajesh/Song-Structure-Using-Spectral-Clustering)|  [Audio Segmentation](https://github.com/its-rajesh/Audio-Segmentation) |  |  |
-|[ICA](https://github.com/its-rajesh/Independent-Component-Analysis)|  [Signal Processing](https://github.com/its-rajesh/Signal-Processing-Python)  |  |  |
+| Others |
+|------|
+|[Audio Bleeding Removal](https://github.com/its-rajesh/Audio-Bleeding-Removal)| 
+| [Music Speech Separation](https://github.com/its-rajesh/Music-Speech-Separation) | 
+| [Deep Learning](https://github.com/its-rajesh/Deep-Learning) |
+|[Wave-U-Net](https://github.com/its-rajesh/Wave-U-Net)| 
+| [Programming Practicum](https://github.com/its-rajesh/Programming-Practicum) |
   
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
