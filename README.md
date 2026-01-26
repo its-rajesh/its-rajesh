@@ -17,7 +17,7 @@ In addition to my primary research, I am passionate about tackling mathematicall
 
 
 <p align="center">
-  <a href="mailto:rajesh.krsk@gmail.com">
+  <a href="mailto:rajeshr12@zohomail.com">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/-Personal%20Mail-c14438?style=flat&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rajeshrrajeshr/">
