@@ -40,6 +40,7 @@ In addition to my primary research, I am passionate about tackling mathematicall
 
 | Music Information Reterival |
 |------|
+| [Generative Interference Reduction](https://github.com/listeningtech/cGANIR/)|
 |[Interference Reduction In Multi-track Recordings](https://github.com/its-rajesh/IRMR)| 
 | [Graph based Interference Reduction - GIRNet](https://github.com/its-rajesh/GIRNet)|
 
